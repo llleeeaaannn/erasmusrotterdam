@@ -23,7 +23,7 @@ const frankData = {
 
 const shaneData = {
   name: 'S. M. Dunne',
-  dateofbirth: '13-07-1998',
+  dateofbirth: '26-11-1997',
   studentID: '486284',
   degree: 'Economics and Business',
   degreeWithYear: 'Economics and Business 2023',
