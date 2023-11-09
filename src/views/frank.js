@@ -4,7 +4,7 @@ import { AppContext } from '../App';
 import Card from '../components/card';
 import Menu from '../components/menu';
 import Navbar from '../components/navbar';
-import { frankData } from '../data/profiles';
+import { frankData, shaneData } from '../data/profiles';
 
 const Frank = () => {
 
@@ -13,7 +13,7 @@ const Frank = () => {
   return (
     <div className={styles.page}>
       <Navbar />
-      <Card data={ frankData }/>
+      <Card data={ shaneData }/>
       { menu && <Menu /> }
     </div>
   )
