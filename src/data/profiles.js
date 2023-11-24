@@ -15,9 +15,9 @@ const frankData = {
   studentID: '486230',
   degree: 'Economics and Business',
   degreeWithYear: 'Economics and Business 2023',
-  year: '2022-2023',
-  validFrom: '01-09-2022',
-  validTo: '31-08-2023',
+  year: '2023-2024',
+  validFrom: '01-09-2023',
+  validTo: '31-08-2024',
   photo: '/images/frankphoto.jpg'
 }
 

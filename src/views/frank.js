@@ -13,7 +13,7 @@ const Frank = () => {
   return (
     <div className={styles.page}>
       <Navbar />
-      <Card data={ shaneData }/>
+      <Card data={ frankData }/>
       { menu && <Menu /> }
     </div>
   )
